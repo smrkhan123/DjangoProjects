@@ -1,0 +1,33 @@
+.main1{
+	background-color: brown;
+	color:white;
+	text-align: center;
+	line-height: 100px;
+	height: 100px;
+	width: 80%;
+	margin: 0 auto;
+}
+body{
+	font-family: century gothic;
+	background-color: grey;
+}
+table{
+	border-collapse: collapse;
+	padding: 10px 20px;
+}
+td{
+	text-align: center;
+	padding: 5px;
+}
+.table1{
+	    background-color: #bdbdbd;
+    color: black;
+    width: 80%;
+    margin: 0 auto;
+    padding: 20px 0px;
+}
+.logout{
+	float:right;
+	color: white;
+	margin-right: 20px;
+}
